@@ -1,0 +1,23 @@
+
+Length : 20
+Breadth : 10
+
+// ------------------------------
+// ----- Start of Maze Data -----
+// ------------------------------
+// 'S' denotes Starting position  
+// 'E' denotes Ending position
+// '#' denotes Barrier
+// 'X' denotes Danger Area
+
+####################
+#S #  #            #
+#  # ##  ##  ### ###
+#     #   #   #  E #
+## #  # X #  X  ## #
+#   X ### #####    #
+# #   #   #  #   ###
+# ### ### ## # #####
+#  #               #
+####################
+
